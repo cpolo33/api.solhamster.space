@@ -209,7 +209,7 @@ app.get('/tv/symbols', async (req, res) => {
     has_intraday: true,
     supported_resolutions: Object.keys(resolutions),
     minmov: 1,
-    pricescale: 10000,
+    pricescale: 100000,
   }
   res.set('Cache-control', 'public, max-age=360')
   res.send(response)
