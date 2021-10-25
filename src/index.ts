@@ -118,11 +118,10 @@ const nativeMarketsV3: Record<string, string> = {
   "BOP/RAY": "6Fcw8aEs7oP7YeuMrM2JgAQUotYxa4WHKHWdLLXssA3R",
   "DAL/USDT": "5BdxDDTm5G3zFC3DvGrr1nnN95ifE7RDnkdCM11xYCEV",
   "DAL/USDC": "J5EzuaPHiB2zJ2aTfsm5gTSGsBWQbWXc13RBcmiuw1E7",
-  "TUTL/SOL": "CtLUvMyGDEP9dkwo9yR93s4H7eibUpUHmVUd9YSKJsPJ",
   "HAMS/USDC": "5j6hdwx4eW3QBYZtRjKiUj7aDA1dxDpveSHBznwq7kUv",
   "INO/USDC": "HyERWE8TEQmDX157oLEpwaTc59ECzmvjUgZhZ2RNtNdn",
   "MEDIA/USDC": "FfiqqvJcVL7oCCu8WQUMHLUC2dnHQPAPjTdSzsERFWjb",
-  "LIQ/USDC": "FLKUQGh9VAG4otn4njLPUf5gaUPx5aAZ2Q6xWiD3hH5u",
+  "LIQ/USDC": "D7p7PebNjpkH6VNHJhmiDFNmpz9XE7UaTv9RouxJMrwb",
   "LIQ/SOL": "F7SrwFTQ8uWBs9zhN9fctLKLJdEAz8fu7XmNyi9Sebht",
   "TULIP/USDC": "8GufnKq7YnXKhnB3WNhgy5PzU9uvHbaaRrZWQK6ixPxW",
   "SLIM/SOL": "GekRdc4eD9qnfPTjUMK5NdQDho8D9ByGrtnqhMNCTm36",
@@ -131,7 +130,6 @@ const nativeMarketsV3: Record<string, string> = {
   "ASH/USDC": "56ZFVzqMqtDmyry9bK7vi1szUV2nuQ4kT6CzFAB649wE",
   "SHBL/USDC": "9G2bAA5Uv8JyPZteuP73GJLUGg5CMbhMLCRSBUBLoXyt",
   "SAIL/USDC": "6hwK66FfUdyhncdQVxWFPRqY8y6usEvzekUaqtpKEKLr",
-  "TUTL/USDC": "BE475cb7v35FSRNzDGju1ijcqR7dZMiMcG9hjjYpikQn",
   "BOLE/USDC": "9yGqsboBtvztDgGbGFEaBBT2G8dUMhxewXDQpy6T3eDm",
   "SRM/SOL": "jyei9Fpj2GtHLDDGgcuhDacxYLLiSyxU4TY7KxB2xai",
   "RAY/SRM": "Cm4MmknScg7qbKqytb1mM92xgDxv3TNXos4tKbBqTDy7",
@@ -153,7 +151,15 @@ const nativeMarketsV3: Record<string, string> = {
   "SOLA/USDC": "4RZ27tjRnSwrtRqsJxDEgsERnDKFs7yx6Ra3HsJvkboy",
   "GRAPE/USDC": "72aW3Sgp1hMTXUiCq8aJ39DX2Jr7sZgumAvdLrLuCMLe",
   "POLIS/USDC": "HxFLKUAmAMLz1jtT3hbvCMELwH5H9tpM2QugP8sKyfhW",
-  "ATLAS/USDC": "Di66GTLsV64JgCCYGVcY21RZ173BHkjJVgPyezNN7P1K"
+  "ATLAS/USDC": "Di66GTLsV64JgCCYGVcY21RZ173BHkjJVgPyezNN7P1K",
+  "ALM/USDC": "DNxn3qM61GZddidjrzc95398SCWhm5BUyt8Y8SdKYr8W",
+  "OXYPOOL/USDC": "G1uoNqQzdasMUvXV66Eki5dwjWv5N9YU8oHKJrE4mfka",
+  "ABR/USDC": "FrR9FBmiBjm2GjLZbfnCcgkbueUJ78NbBx1qcQKPUQe8",
+  "DATE/USDC": "3jszawPiXjuqg5MwAAHS8wehWy1k7de5u5pWmmPZf6dM",
+  "PRT/USDC": "CsNZMtypiGgxm6JrmYVJWnLnJNsERrmT3mQqujLsGZj",
+  "NAXAR/USDT": "5WSgaKbwpuy18jHg7mCUXY8YhTL2zVZZkeXi844YTLob",
+  "MSOL/SOL": "5cLrMai1DsLRYc1Nio9qMTicsWtvzjzZfJPXyAoF4t1Z",
+  "MSOL/USDC": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy"
 }
 
 const symbolsByPk = Object.assign(
