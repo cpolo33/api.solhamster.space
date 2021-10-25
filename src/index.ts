@@ -130,7 +130,6 @@ const nativeMarketsV3: Record<string, string> = {
   "ASH/USDC": "56ZFVzqMqtDmyry9bK7vi1szUV2nuQ4kT6CzFAB649wE",
   "SHBL/USDC": "9G2bAA5Uv8JyPZteuP73GJLUGg5CMbhMLCRSBUBLoXyt",
   "SAIL/USDC": "6hwK66FfUdyhncdQVxWFPRqY8y6usEvzekUaqtpKEKLr",
-  "BOLE/USDC": "9yGqsboBtvztDgGbGFEaBBT2G8dUMhxewXDQpy6T3eDm",
   "SRM/SOL": "jyei9Fpj2GtHLDDGgcuhDacxYLLiSyxU4TY7KxB2xai",
   "RAY/SRM": "Cm4MmknScg7qbKqytb1mM92xgDxv3TNXos4tKbBqTDy7",
   "SLRS/USDC": "2Gx3UfV831BAh8uQv1FKSPKS9yajfeeD8GJ4ZNb2o2YP",
