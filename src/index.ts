@@ -146,6 +146,7 @@ const nativeMarketsV3: Record<string, string> = {
   "CATO/USDC": "9fe1MWiKqUdwift3dEpxuRHWftG72rysCRHbxDy6i9xB",
   "TOX/USDC": "5DgXgvgTnXzg12xJCRQnRmqWV4nNaRGabPM7ALcCaZby",
   "SUNNY/USDC": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
+  "PRT/USDC": "CsNZMtypiGgxm6JrmYVJWnLnJNsERrmT3mQqujLsGZj",
   "PRT/SOL": "H7ZmXKqEx1T8CTM4EMyqR5zyz4e4vUpWTTbCmYmzxmeW",
   "SOLA/USDC": "4RZ27tjRnSwrtRqsJxDEgsERnDKFs7yx6Ra3HsJvkboy",
   "GRAPE/USDC": "72aW3Sgp1hMTXUiCq8aJ39DX2Jr7sZgumAvdLrLuCMLe",
@@ -155,7 +156,6 @@ const nativeMarketsV3: Record<string, string> = {
   "OXYPOOL/USDC": "G1uoNqQzdasMUvXV66Eki5dwjWv5N9YU8oHKJrE4mfka",
   "ABR/USDC": "FrR9FBmiBjm2GjLZbfnCcgkbueUJ78NbBx1qcQKPUQe8",
   "DATE/USDC": "3jszawPiXjuqg5MwAAHS8wehWy1k7de5u5pWmmPZf6dM",
-  "PRT/USDC": "CsNZMtypiGgxm6JrmYVJWnLnJNsERrmT3mQqujLsGZj",
   "NAXAR/USDT": "5WSgaKbwpuy18jHg7mCUXY8YhTL2zVZZkeXi844YTLob",
   "MSOL/SOL": "5cLrMai1DsLRYc1Nio9qMTicsWtvzjzZfJPXyAoF4t1Z",
   "MSOL/USDC": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy"
