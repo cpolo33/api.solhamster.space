@@ -1,4 +1,4 @@
-# Serum History
+# Trading History
 
 Collects and aggregates trades from serum dex for display in a tradingview chart.
 This is powering the charts on [HAMS Dex](https://dex.solhamster.space/).
