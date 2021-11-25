@@ -171,7 +171,8 @@ const nativeMarketsV3: Record<string, string> = {
   "WAGMI/USDC": "eju5JDyaf29jYNfq7VrVAocVxGayDEHVHHiM7MYc331",
   "GENE/USDC": "FwZ2GLyNNrFqXrmR8Sdkm9DQ61YnQmxS6oobeH3rrLUM",
   "CWAR/USDC": "CDYafmdHXtfZadhuXYiR7QaqmK9Ffgk2TA8otUWj9SWz",
-  "IN/USDC": "49vwM54DX3JPXpey2daePZPmimxA4CrkXLZ6E1fGxx2Z"
+  "IN/USDC": "49vwM54DX3JPXpey2daePZPmimxA4CrkXLZ6E1fGxx2Z",
+  "DFL/USDC": "9UBuWgKN8ZYXcZWN67Spfp3Yp67DKBq1t31WLrVrPjTR"
 }
 
 const symbolsByPk = Object.assign(
