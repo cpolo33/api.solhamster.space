@@ -172,7 +172,12 @@ const nativeMarketsV3: Record<string, string> = {
   "GENE/USDC": "FwZ2GLyNNrFqXrmR8Sdkm9DQ61YnQmxS6oobeH3rrLUM",
   "CWAR/USDC": "CDYafmdHXtfZadhuXYiR7QaqmK9Ffgk2TA8otUWj9SWz",
   "IN/USDC": "49vwM54DX3JPXpey2daePZPmimxA4CrkXLZ6E1fGxx2Z",
-  "DFL/USDC": "9UBuWgKN8ZYXcZWN67Spfp3Yp67DKBq1t31WLrVrPjTR"
+  "DFL/USDC": "9UBuWgKN8ZYXcZWN67Spfp3Yp67DKBq1t31WLrVrPjTR",
+  "UXP/USDC": "7KQpsp914VYnh62yV6AGfoG9hprfA14SgzEyqr6u9NY1",
+  "TRTLS/USDC": "2dKHkfJGKNxmtwdLcsqXFGcb8Xppw5RP6YVWEWjSfAHm",
+  "OOGI/USDC": "ANUCohkG9gamUn6ofZEbnzGkjtyMexDhnjCwbLDmQ8Ub",
+  "MINECRAFT/USDC": "HYH4sxk2pCZMJV7pSzg1davjfJbSTVzg5onJUMAMo83r",
+  "RUN/USDC": "HCvX4un57v1SdYQ2LFywaDYyZySqLHMQ5cojq5kQJM3y"
 }
 
 const symbolsByPk = Object.assign(
