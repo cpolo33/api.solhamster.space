@@ -177,7 +177,10 @@ const nativeMarketsV3: Record<string, string> = {
   "TRTLS/USDC": "2dKHkfJGKNxmtwdLcsqXFGcb8Xppw5RP6YVWEWjSfAHm",
   "OOGI/USDC": "ANUCohkG9gamUn6ofZEbnzGkjtyMexDhnjCwbLDmQ8Ub",
   "MINECRAFT/USDC": "HYH4sxk2pCZMJV7pSzg1davjfJbSTVzg5onJUMAMo83r",
-  "RUN/USDC": "HCvX4un57v1SdYQ2LFywaDYyZySqLHMQ5cojq5kQJM3y"
+  "RUN/USDC": "HCvX4un57v1SdYQ2LFywaDYyZySqLHMQ5cojq5kQJM3y",
+  "REAL/USDC": "AU8VGwd4NGRbcMz9LT6Fu2LP69LPAbWUJ6gEfEgeYM33",
+  "BASIS/USDC": "HCWgghHfDefcGZsPsLAdMP3NigJwBrptZnXemeQchZ69",
+  "TTT/USDC": "2sdQQDyBsHwQBRJFsYAGpLZcxzGscMUd5uxr8jowyYHs"
 }
 
 const symbolsByPk = Object.assign(
